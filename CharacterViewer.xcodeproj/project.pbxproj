@@ -39,6 +39,10 @@
 		84ABE78E2A396E3300A445A5 /* TheWireTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 84ABE78D2A396E3300A445A5 /* TheWireTests.swift */; };
 		84ABE7992A39710400A445A5 /* Localizable.strings in Resources */ = {isa = PBXBuildFile; fileRef = 84ABE79C2A39710400A445A5 /* Localizable.strings */; };
 		84ABE79A2A39710400A445A5 /* Localizable.strings in Resources */ = {isa = PBXBuildFile; fileRef = 84ABE79C2A39710400A445A5 /* Localizable.strings */; };
+		84ABE7A12A39794600A445A5 /* CharacterListData.swift in Sources */ = {isa = PBXBuildFile; fileRef = 849C58F62A3944F800C76CE6 /* CharacterListData.swift */; };
+		84ABE7A22A39794600A445A5 /* CharacterListData.swift in Sources */ = {isa = PBXBuildFile; fileRef = 849C58F62A3944F800C76CE6 /* CharacterListData.swift */; };
+		84ABE7A32A397BCD00A445A5 /* CharacterDataModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 849C58F92A39464E00C76CE6 /* CharacterDataModel.swift */; };
+		84ABE7A42A397BCD00A445A5 /* CharacterDataModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 849C58F92A39464E00C76CE6 /* CharacterDataModel.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -415,6 +419,8 @@
 			buildActionMask = 2147483647;
 			files = (
 				84ABE7812A396DFA00A445A5 /* SimpsonsTests.swift in Sources */,
+				84ABE7A32A397BCD00A445A5 /* CharacterDataModel.swift in Sources */,
+				84ABE7A12A39794600A445A5 /* CharacterListData.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -423,6 +429,8 @@
 			buildActionMask = 2147483647;
 			files = (
 				84ABE78E2A396E3300A445A5 /* TheWireTests.swift in Sources */,
+				84ABE7A42A397BCD00A445A5 /* CharacterDataModel.swift in Sources */,
+				84ABE7A22A39794600A445A5 /* CharacterListData.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
