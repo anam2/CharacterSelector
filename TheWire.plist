@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>API_URL</key>
-	<string>https://api.duckduckgo.com/?q=simpsons+characters&amp;format=json</string>
+	<string>https://api.duckduckgo.com/?q=the+wire+characters&amp;format=json</string>
 	<key>UIApplicationSceneManifest</key>
 	<dict>
 		<key>UIApplicationSupportsMultipleScenes</key>
